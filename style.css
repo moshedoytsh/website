@@ -1,11 +1,18 @@
-* {
-    background-color: dodgerblue;
-    margin: 0;
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-h1 {
-    color: white;
-    background-color: dodgerblue;
-    font-family: monospace;
-    max-width: 90em;
+.center-container {
+  width: 90%;
+  text-align: center;
 }
+
+/* h1 {
+  font-size: 2rem; /* Adjust the font size as needed */
+}
+ */
