@@ -21,11 +21,11 @@ main {
 h1 {
     color: white;
     font-family: monospace;
-    font-size: 10em;
+    font-size: 10vw;
 }
 
 more {
     color: white;
     font-family: monospace;
-    font-size: 3em;
+    font-size: 3vw;
 }
