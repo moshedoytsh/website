@@ -3,16 +3,29 @@
     margin: 0;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: dodgerblue;
+}
+
 .welcome-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: dodgerblue;
-    height: 100vh;
 }
 
 h1 {
     color: white;
     font-family: monospace;
     font-size: 10em;
+}
+
+more {
+    color: white;
+    font-family: monospace;
+    font-style: italic;
 }
