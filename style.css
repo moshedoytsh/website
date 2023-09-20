@@ -38,6 +38,6 @@ h1 {
 }
 
 footer {
-    height: 5vh;
+    min-height: 5vh;
     background-color: dodgerblue;
 }
